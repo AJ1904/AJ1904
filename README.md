@@ -33,7 +33,7 @@ I have worked on diverse projects and technologies including data migration, mai
 
 # 🏆 Recognition
 - Devlympics - The Ultimate Warrior (Secure Code Warrior) 2023
-- Devlympics - Web - Winner (Secure Code Warrior) 2023
+- Devlympics - Web - 2nd Place (Secure Code Warrior) 2023
 - Devlympics - API - 2nd Place (Secure Code Warrior) 2023
 - Devlympics - Missions - 1st Place (Secure Code Warrior) 2023
 - Department of Computer Science and Engineering Scholarship 2023-24

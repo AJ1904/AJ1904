@@ -1,6 +1,8 @@
 [![Ayushri Jain](https://see.fontimg.com/api/renderfont4/OV9ee/eyJyIjoiZnMiLCJoIjoxMTAsInciOjIwMDAsImZzIjo1NSwiZmdjIjoiIzE1MkJFOCIsImJnYyI6IiNGRkZGRkYiLCJ0IjoxfQ/QXl1c2hyaSBKYWlu/lucy-said-ok-personal-use-italic.png)](https://github.com/AJ1904)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=14&pause=1000&color=183CF7&center=true&random=false&width=500&lines=Machine+Learning+Engineer%2C+Data+Engineer%2C+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=16&pause=1000&color=183CF7&random=false&width=800&lines=Machine+Learning+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=16&pause=1000&color=183CF7&random=false&width=800&lines=Data+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=16&pause=1000&color=183CF7&random=false&width=800&lines=Software+Engineer)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/ayushrijain/)  
   
@@ -24,7 +26,7 @@ I have worked on diverse projects and technologies including data migration, mai
 
 ### 🗄️ Databases and Cloud Hosting
 
-[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](#) [![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)](#) [![Elasticsearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](#) [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)](#) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)](#) [![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)](#) [![Oracle](https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white)](#)
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](#) [![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)](#) [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#) [![Elasticsearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](#) [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)](#) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)](#) [![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)](#) [![Oracle](https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white)](#)
 
 ### 💻 Software and Tools
 

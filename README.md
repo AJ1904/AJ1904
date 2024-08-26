@@ -203,3 +203,24 @@ I have worked on diverse projects and technologies including data migration, mai
 
 
 <!-- Some badges taken from https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+
+# Stats
+<!-- [![aj1904's GitHub | Stats](https://stats.quira.sh/aj1904/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=aj1904)
+
+[![aj1904's GitHub | Dependencies](https://stats.quira.sh/aj1904/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=aj1904)
+
+[![aj1904's GitHub | Languages Over Time](https://stats.quira.sh/aj1904/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=aj1904)
+-->
+<a href="https://quira.sh?utm_source=widgets&utm_campaign=aj1904">
+    <img src="https://stats.quira.sh/aj1904/github?theme=dark" alt="aj1904's GitHub | Stats" width="500"/>
+</a>
+
+<a href="https://quira.sh?utm_source=widgets&utm_campaign=aj1904">
+    <img src="https://stats.quira.sh/aj1904/dependencies?theme=dark" alt="aj1904's GitHub | Dependencies" width="500"/>
+</a>
+
+<a href="https://quira.sh?utm_source=widgets&utm_campaign=aj1904">
+    <img src="https://stats.quira.sh/aj1904/languages-over-time?theme=dark" alt="aj1904's GitHub | Languages Over Time" width="500"/>
+</a>
+
+

@@ -1,8 +1,8 @@
-[![Ayushri Jain](https://see.fontimg.com/api/renderfont4/OV9ee/eyJyIjoiZnMiLCJoIjoxMTAsInciOjIwMDAsImZzIjo1NSwiZmdjIjoiIzE1MkJFOCIsImJnYyI6IiNGRkZGRkYiLCJ0IjoxfQ/QXl1c2hyaSBKYWlu/lucy-said-ok-personal-use-italic.png)](https://github.com/AJ1904)
+<!--[![Ayushri Jain](https://see.fontimg.com/api/renderfont4/OV9ee/eyJyIjoiZnMiLCJoIjoxMTAsInciOjIwMDAsImZzIjo1NSwiZmdjIjoiIzE1MkJFOCIsImJnYyI6IiNGRkZGRkYiLCJ0IjoxfQ/QXl1c2hyaSBKYWlu/lucy-said-ok-personal-use-italic.png)](https://github.com/AJ1904) 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=16&pause=1000&color=183CF7&random=false&width=800&lines=Machine+Learning+,+Natural+Language+Processing+,+Generative+AI+,+Deep+Learning)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=16&pause=1000&color=183CF7&random=false&width=800&lines=Data+Engineering+,+Data+Science+,+Software+Engineering)]()
-
+-->
 [comment]: <> (https://readme-typing-svg.demolab.com?font=&size=16&pause=1000&color=183CF7&random=false&width=800&lines=Software+Engineering)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/ayushrijain/) [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white "Portfolio")](https://ayushrijain.netlify.app/)  
@@ -204,14 +204,14 @@ I have worked on diverse projects and technologies including data migration, mai
 
 <!-- Some badges taken from https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-# Stats
+<!--# Stats
 <!-- [![aj1904's GitHub | Stats](https://stats.quira.sh/aj1904/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=aj1904)
 
 [![aj1904's GitHub | Dependencies](https://stats.quira.sh/aj1904/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=aj1904)
 
 [![aj1904's GitHub | Languages Over Time](https://stats.quira.sh/aj1904/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=aj1904)
 -->
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=aj1904">
+<!--a href="https://quira.sh?utm_source=widgets&utm_campaign=aj1904">
     <img src="https://stats.quira.sh/aj1904/github?theme=dark" alt="aj1904's GitHub | Stats" width="500"/>
 </a>
 
@@ -221,6 +221,6 @@ I have worked on diverse projects and technologies including data migration, mai
 
 <a href="https://quira.sh?utm_source=widgets&utm_campaign=aj1904">
     <img src="https://stats.quira.sh/aj1904/languages-over-time?theme=dark" alt="aj1904's GitHub | Languages Over Time" width="500"/>
-</a>
+</a-->
 
 
